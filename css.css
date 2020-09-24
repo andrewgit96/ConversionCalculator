@@ -1,0 +1,32 @@
+/*
+ Andrew Pereira 
+
+*/
+/* 
+    Created on : Jun 16, 2020
+    Author     : Andrew
+*/
+
+
+
+body{
+    /* background-color: lightblue; */
+    background-image: url(https://freefrontend.com/assets/img/css-background-patterns/css-lattice-pattern.png);
+    font-family: Times, "Times New Roman", sans-serif;
+    text-align: center;
+    font-size: 12pt;    background-color: lightblue;
+
+}
+p{
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20pt;
+    font-weight: bold;
+    color: white;
+}
+label{
+    color: white;
+}
+h1{
+    color:white;
+}
+
