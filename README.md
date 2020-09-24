@@ -1,5 +1,5 @@
 # ConversionCalculator
-Unit Conversion Calculator using JavaScript, HTML and CSS
+Unit Conversion Calculator Webpage using JavaScript, HTML and CSS
 
 User can convert between various units of measurement:
 
